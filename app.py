@@ -10,7 +10,7 @@ st.write("Adjust the environmental factors below to see the AI's risk prediction
 # 1. Load the dataset
 @st.cache_data
 def load_data():
-    return pd.read_csv('data/raw/crop_data.csv')
+    return pd.read_csv('crop_data.csv')
 
 df = load_data()
 
