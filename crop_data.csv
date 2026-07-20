@@ -1,0 +1,7 @@
+Temperature,Humidity,SoilMoisture,Rainfall,RiskLevel
+30,75,40,120,0
+22,85,60,200,1
+35,40,20,10,1
+28,60,45,80,0
+25,80,55,150,0
+33,45,25,15,1
